@@ -1,6 +1,6 @@
 # 🧠 AI-POWERED RESUME BUILDER
 
-![License](https://img.shields.io/badge/license-MIT-green) ![Django](https://img.shields.io/badge/Django-5.x-blue)
+![Django](https://img.shields.io/badge/Django-5.x-blue)
 
 An AI-powered web application that helps users create, preview, and download stunning resumes. Leveraging Google Gemini's generative AI API, it can automatically generate a complete resume from just a job description — no manual input required!
 
